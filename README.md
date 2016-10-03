@@ -1,2 +1,5 @@
-# learning_analytics
-data analysis for learning analytics project
+Slack: udel.slack.com
+Channel: canvas-data-students
+Github: https://github.com/harrywang/learning_analytics
+Dropbox: FSAN-PHD_Students
+
